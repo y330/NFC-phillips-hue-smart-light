@@ -1,0 +1,6 @@
+requests>=2.23.0
+webcolors>=1.11
+
+[test]
+pytest
+pytest-cov
